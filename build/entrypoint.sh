@@ -1,3 +1,3 @@
 #!/bin/bash
 
-RUN npm run serve
+npm run serve
