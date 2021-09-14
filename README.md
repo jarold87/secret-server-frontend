@@ -1,4 +1,8 @@
-# secret-app
+# Secret-Server Frontend
+
+## Description
+- add new secret
+- read a secret by hash
 
 ## Project setup
 ```
